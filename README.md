@@ -70,4 +70,7 @@ dotfiles push
 
 ## Tips:
 Terminal Setup with Zsh + Tmux + Dracula Theme
-https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm
+- https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm
+
+Set tmux as default with zsh
+- https://unix.stackexchange.com/a/128866
