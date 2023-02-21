@@ -67,3 +67,7 @@ dotfiles push
 - <https://zachholman.com/2010/08/dotfiles-are-meant-to-be-forked/>
 - <https://gruby.medium.com/dotfile-how-to-manage-and-sync-with-git-gnu-stow-6beada1529ea>
 - <https://github.com/holman/dotfiles>
+
+## Tips:
+Terminal Setup with Zsh + Tmux + Dracula Theme
+https://dev.to/andrenbrandao/terminal-setup-with-zsh-tmux-dracula-theme-48lm
